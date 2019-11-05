@@ -1,5 +1,5 @@
 ---
-title: "The Milkbar: A Game of Australian "Would You Rather?""
+title: "The Milkbar: A Game of Australian \"Would You Rather?\""
 author: Mariah Lattas
 categories: [podcasts, the-milkbar]
 layout: post
