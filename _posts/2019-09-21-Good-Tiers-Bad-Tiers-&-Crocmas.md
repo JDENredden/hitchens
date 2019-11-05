@@ -1,10 +1,7 @@
 ---
-title: 'The Milkbar: Good Tiers, Bad Tiers & Crocmas'
-date: 2019-09-21 00:00:00 Z
-categories:
-- podcasts
-- the-milkbar
+title: "The Milkbar: Good Tiers, Bad Tiers & Crocmas"
 author: Mariah Lattas
+categories: [podcasts, the-milkbar]
 layout: post
 ---
 
