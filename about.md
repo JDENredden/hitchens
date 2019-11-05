@@ -5,7 +5,9 @@ title: About
 
 Journalist, podcaster, and feminist. 
 
-Mariah Lattas holds a Bachelor of Media and Bachelor of Arts (Politics and International Relations) from the Univeristy of Adelaide. Mariah is  co-host of [Pink Rabbit](http://radioadelaide.org.au/program/pink-rabbit/) on Radio Adelaide 101.5 and JOY 94.9 and also co-hosts [The Milkbar](https://player.whooshkaa.com/shows/the-milkbar) with Benito Carbone for [postup](http://postup.com.au).
+Mariah Lattas holds a *Bachelor of Media and Bachelor of Arts (Politics and International Relations)* from the Univeristy of Adelaide. 
+
+Mariah is  co-host of [Pink Rabbit](http://radioadelaide.org.au/program/pink-rabbit/) on Radio Adelaide 101.5 and JOY 94.9 and also co-hosts [The Milkbar](https://player.whooshkaa.com/shows/the-milkbar) with Benito Carbone for [postup](http://postup.com.au).
 
 <figure>
   <img alt="Mariah Lattas" src="https://www.toyotacenter.com/assets/img/ariana-grande-sweetner-Slide-4fdf654a13.jpg" />
