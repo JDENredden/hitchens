@@ -49,4 +49,4 @@ hide_credits: true
 collections:
   categories:
     output: true
-    permalink: /category/:name/
+#    permalink: /category/:name/
