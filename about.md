@@ -1,10 +1,16 @@
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: About
 <<<<<<< HEAD
 layout: post
 =======
 >>>>>>> parent of 8306e67... Update about.md
+=======
+layout: post
+title: About
+published: true
+>>>>>>> parent of b71fca1... Updated Config and 20 other files
 =======
 layout: post
 title: About
