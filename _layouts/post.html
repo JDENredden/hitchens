@@ -25,12 +25,12 @@ layout: default
       <div itemprop="author">{{ page.author }}</div>
     {% endif %}
     <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
-    <span>[
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}">&nbsp;</a>
-  {% endfor %}
-]  </span>
+    <span>
+      {% for tag in page.tags %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+          <a href="/tag/{{ tag_name }}">{{ tag_name }}&nbsp;</a>
+      {% endfor %}
+    </span>
   </div>
 
   {% if site.disqus.shortname %}
