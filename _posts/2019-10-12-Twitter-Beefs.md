@@ -1,7 +1,8 @@
 ---
 title: "The Milkbar: Twitter Beefs"
 author: Mariah Lattas
-categories: [podcasts, the-milkbar]
+category: podcast
+tags: podcast the-milkbar
 layout: post
 ---
 

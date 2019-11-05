@@ -1,7 +1,8 @@
 ---
 title: "The Milkbar: VMAs & Facebook Advice Groups"
 author: Mariah Lattas
-categories: [podcasts, the-milkbar]
+category: podcast
+tags: podcast the-milkbar
 layout: post
 ---
 

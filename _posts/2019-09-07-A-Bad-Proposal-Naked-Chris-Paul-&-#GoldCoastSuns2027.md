@@ -1,7 +1,8 @@
 ---
 title: "The Milkbar: A Bad Proposal, Naked Chris Paul & #GoldCoastSuns2027"
 author: Mariah Lattas
-categories: [podcasts, the-milkbar]
+category: podcast
+tags: podcast the-milkbar
 layout: post
 ---
 

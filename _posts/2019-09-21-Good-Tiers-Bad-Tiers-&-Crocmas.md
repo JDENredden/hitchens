@@ -1,7 +1,8 @@
 ---
 title: "The Milkbar: Good Tiers, Bad Tiers & Crocmas"
 author: Mariah Lattas
-categories: [podcasts, the-milkbar]
+category: podcast
+tags: podcast the-milkbar
 layout: post
 ---
 
