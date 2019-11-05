@@ -1,9 +1,4 @@
 ---
-title: About
-<<<<<<< HEAD
-layout: post
-=======
->>>>>>> parent of 8306e67... Update about.md
 ---
 
 Journalist, podcaster, and feminist.
