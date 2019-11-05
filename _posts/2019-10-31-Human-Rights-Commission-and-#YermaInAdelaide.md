@@ -1,5 +1,5 @@
 ---
-title: Human Rights Commission and #YermaInAdelaide
+title: "Human Rights Commission and #YermaInAdelaide"
 author: Mariah Lattas
 categories: [pink-rabbit, podcasts]
 layout: post
