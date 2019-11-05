@@ -43,8 +43,10 @@ plugins:
 
 paginate: 5
 paginate_path: "/page/:num/"
-<<<<<<< HEAD
-=======
 
->>>>>>> parent of 7375be3... Updated Config and 19 other files
 hide_credits: true
+
+collections:
+  categories:
+    output: true
+    permalink: /category/:name/
