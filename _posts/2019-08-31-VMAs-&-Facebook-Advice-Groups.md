@@ -9,7 +9,7 @@ The first episode of my new podcast on [postup](https://postup.com.au) called *T
 
 #### Episode 1: VMAs & Facebook Advice Groups
 
-![The Milkbar Cover Art](/assets/images/the-milkbar.jpg)
+![The Milkbar Cover Art]({$asset_url}/images/the-milkbar.jpg)
 
 > The VMAs were bad, advice groups are also bad.
 
