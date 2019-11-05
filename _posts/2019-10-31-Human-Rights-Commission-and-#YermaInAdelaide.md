@@ -16,4 +16,4 @@ Aired 6:30 PM Thursday 31 October 2019 on Radio Adealaide 101.5 and JOY 94.9 in 
 
 > Then, we chat with playwright Holly Brindley about gender roles in #yermainadelaide and how the adaptation places its female protagonist into a modern context.
 
-Listen on [Radio Adelaie](http://radioadelaide.org.au/program/pink-rabbit/2019-10-31).
+Listen on [Radio Adelaide](http://radioadelaide.org.au/program/pink-rabbit/2019-10-31).
