@@ -23,12 +23,11 @@ Mariah will be travelling to the United States in early 2020 to observe the 2020
 
 #### Experience
 ##### Sales Consultant at LUSH Cosmetics <br> 2019 — Present
-Sales Consultant at LUSH Cosmetics in Adelaide, South Australia.
 
 ##### Operations Specialist at Apple <br> 2017 — 2019
-Oversees in-store inventory systems, facilities management, preservations, external relations, event planning, and all other operational tasks.
 
 #### Education
 ##### University of Adelaide <br> 2015 — 2019
 Bachelor of Media
+
 Bachelor of Arts (Politics and International Relations)
