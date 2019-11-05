@@ -7,7 +7,7 @@ layout: post
 
 The first episode of my new podcast on [postup](https://postup.com.au) called *The Milkbar*, co-hosted with Benito Carbone, postup's Editor-in-Chief, we discuss the week's trending and culture news.
 
-#### Episode 1: VMAs & Facebook Advice Groups
+#### [Episode 1: VMAs & Facebook Advice Groups](https://podcasts.apple.com/au/podcast/episode-1-vmas-facebook-advice-groups/id1478059008?i=1000448229459)
 
 ![The Milkbar Cover Art](/assets/images/the-milkbar.jpg)
 
