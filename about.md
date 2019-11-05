@@ -1,6 +1,6 @@
 ---
-layout: post
 title: About
+layout: post
 ---
 
 Journalist, podcaster, and feminist.

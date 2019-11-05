@@ -1,7 +1,10 @@
 ---
-title: "Pink Rabbit: Human Rights Commission and #YermaInAdelaide"
+title: 'Pink Rabbit: Human Rights Commission and #YermaInAdelaide'
+date: 2019-10-31 00:00:00 Z
+categories:
+- radio
+- pink-rabbit
 author: Mariah Lattas
-categories: [radio, pink-rabbit]
 layout: post
 ---
 
