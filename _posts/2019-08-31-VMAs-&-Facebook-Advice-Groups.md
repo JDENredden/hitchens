@@ -15,4 +15,4 @@ The first episode of my new podcast on [postup](https://postup.com.au) called *T
 
 Listen on [Apple Podcasts](https://podcasts.apple.com/au/podcast/episode-1-vmas-facebook-advice-groups/id1478059008?i=1000448229459).
 
-Subscribe to The Milkbar on [Apple Podcasts](https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008), [Spotify](https://open.spotify.com/show/1jZ8UrvFnje63aQNC4fzo2), and where ever you [find](https://player.whooshkaa.com/shows/the-milkbar) podcasts.
+Subscribe to The Milkbar on [Apple Podcasts](https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008), [Spotify](https://open.spotify.com/show/1jZ8UrvFnje63aQNC4fzo2), and where ever you [find](https://player.whooshkaa.com/shows/the-milkbar) podcasts. 
