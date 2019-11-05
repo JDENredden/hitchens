@@ -21,13 +21,13 @@ Mariah will be travelling to the United States in early 2020 to observe the 2020
 ### CV
 <hr>
 <div style="text-align: left;">
-#### Experience
-##### Sales Consultant at LUSH Cosmetics <br> 2019 — Present
+<h4>Experience</h4>
+<h5>Sales Consultant at LUSH Cosmetics <br> 2019 — Present</h5>
 
-##### Operations Specialist at Apple <br> 2017 — 2019
+<h5>Operations Specialist at Apple <br> 2017 — 2019</h5>
 
-#### Education
-##### University of Adelaide <br> 2015 — 2019
+<h4>Education</h4>
+<h5>University of Adelaide <br> 2015 — 2019</h5>
 Bachelor of Media
 
 Bachelor of Arts (Politics and International Relations)
