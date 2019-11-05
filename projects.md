@@ -1,6 +1,6 @@
 ---
-title: Current Projects
 layout: post
+title: Current Projects
 ---
 
 ### [Pink Rabbit](http://radioadelaide.org.au/program/pink-rabbit/)

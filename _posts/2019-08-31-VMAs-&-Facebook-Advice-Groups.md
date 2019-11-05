@@ -1,10 +1,7 @@
 ---
-title: 'The Milkbar: VMAs & Facebook Advice Groups'
-date: 2019-08-31 00:00:00 Z
-categories:
-- podcasts
-- the-milkbar
+title: "The Milkbar: VMAs & Facebook Advice Groups"
 author: Mariah Lattas
+categories: [podcasts, the-milkbar]
 layout: post
 ---
 

@@ -1,10 +1,7 @@
 ---
-title: 'The Milkbar: BrownSLOW, Canberra & Horoscopes'
-date: 2019-09-28 00:00:00 Z
-categories:
-- podcasts
-- the-milkbar
+title: "The Milkbar: BrownSLOW, Canberra & Horoscopes"
 author: Mariah Lattas
+categories: [podcasts, the-milkbar]
 layout: post
 ---
 

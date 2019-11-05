@@ -1,10 +1,7 @@
 ---
-title: 'The Milkbar: Blurred Lines & Poo Jogging'
-date: 2019-10-19 00:00:00 Z
-categories:
-- podcasts
-- the-milkbar
+title: "The Milkbar: Blurred Lines & Poo Jogging"
 author: Mariah Lattas
+categories: [podcasts, the-milkbar]
 layout: post
 ---
 

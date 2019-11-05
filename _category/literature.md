@@ -1,5 +1,4 @@
 ---
-permalink: "/literature"
 tag: literature
+permalink: "/literature"
 ---
-

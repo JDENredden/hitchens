@@ -1,10 +1,7 @@
 ---
-title: 'The Milkbar: Twitter Beefs'
-date: 2019-10-12 00:00:00 Z
-categories:
-- podcasts
-- the-milkbar
+title: "The Milkbar: Twitter Beefs"
 author: Mariah Lattas
+categories: [podcasts, the-milkbar]
 layout: post
 ---
 
