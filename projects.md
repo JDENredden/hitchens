@@ -3,6 +3,8 @@ layout: post
 title: Projects
 ---
 
+## Current
+
 ### [Pink Rabbit](http://radioadelaide.org.au/program/pink-rabbit/)
 
 Co-hosted with Milly Schultz-Boylen, and Soph Landau, Pink Rabbit is *looking down the rabbit hold of what it means to be a 21st century feminist*.
@@ -13,10 +15,17 @@ Listen live on Radio Adelaide 101.5 and JOY 94.9 in Melbourne every Thursday at 
 
 <hr>
 
-### [The Milkbar on postup](https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008)
+### [The Milkbar](https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008)
 
-The Milkbar is postup's culture podcast. Co-hosted with Benito Carbone, postup's Editor-in-Chief, we discuss the week's trending and culture news.
+The Milkbar is [postup's](https://postup.com.au) culture podcast. Co-hosted with Benito Carbone, postup's Editor-in-Chief, we discuss the week's trending and culture news.
+
+![The Milkbar](/assets/images/the-milkbar.jpg)
 
 Find The Milkbar on [Apple Podcasts](https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008), [Spotify](https://open.spotify.com/show/1jZ8UrvFnje63aQNC4fzo2), and where ever you [find](https://player.whooshkaa.com/shows/the-milkbar) podcasts.
 
-![The Milkbar](/assets/images/the-milkbar.jpg)
+<hr>
+
+## Past
+
+### [The Wire]()
+
