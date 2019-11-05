@@ -124,6 +124,13 @@ figcaption {
   text-align: center;
 }
 
+.post-tags {
+  color: $muted-text-color;
+  display: block;
+  font-size: .825em;
+  white-space: nowrap;
+}
+
 .post-date {
   color: $muted-text-color;
   display: block;
