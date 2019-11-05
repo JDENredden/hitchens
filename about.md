@@ -3,15 +3,15 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+Journalist, podcaster, and feminist. 
+
+Mariah Lattas holds a Bachelor of Media and Bachelor of Arts (Politics and International Relations) from the Univeristy of Adelaide. Mariah is  co-host of [Pink Rabbit](http://radioadelaide.org.au/program/pink-rabbit/) on Radio Adelaide 101.5 and JOY 94.9 and also co-hosts [The Milkbar](https://player.whooshkaa.com/shows/the-milkbar) with Benito Carbone for [postup](http://postup.com.au).
 
 <figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <img alt="Mariah Lattas" src="https://www.toyotacenter.com/assets/img/ariana-grande-sweetner-Slide-4fdf654a13.jpg" />
   <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
+    Photo by Ariana Grande.
   </figcaption>
 </figure>
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
-
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+Mariah will be travelling to the United States in early 2020 to observe the 2020 Presidential Election Primaries. If you would like her to write for you from the field, please get in [touch](mailto:mariahlattas1@gmail.com).
