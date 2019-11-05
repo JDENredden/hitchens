@@ -3,7 +3,7 @@ layout: post
 title: Contact
 ---
 
-## Want to work with me?
+### Want to work with me?
 
 Email me at mariahlattas1@gmail.com or +61 434 235 289.
 
