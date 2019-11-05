@@ -20,7 +20,7 @@ Mariah will be travelling to the United States in early 2020 to observe the 2020
 
 ### CV
 <hr>
-
+<div style="text-align: left;>
 #### Experience
 ##### Sales Consultant at LUSH Cosmetics <br> 2019 — Present
 
@@ -31,3 +31,4 @@ Mariah will be travelling to the United States in early 2020 to observe the 2020
 Bachelor of Media
 
 Bachelor of Arts (Politics and International Relations)
+</div>
