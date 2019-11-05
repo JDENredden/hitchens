@@ -19,10 +19,11 @@ Mariah is  co-host of [Pink Rabbit](http://radioadelaide.org.au/program/pink-rab
 Mariah will be travelling to the United States in early 2020 to observe the 2020 Presidential Election Primaries. If you would like her to write for you from the field, please get in [touch](mailto:mariahlattas1@gmail.com).
 
 ### CV
+<hr>
 
 #### Experience
 ##### Sales Consultant at LUSH Cosmetics <br> 2019 — Present
-LUSh
+Sales consultant for LUSH Cosmetics in Adelaide, South Australia.
 
 ##### Operations Specialist at Apple <br> 2017 — 2019
 Oversees in-store inventory systems, facilities management, preservations, external relations, event planning, and all other operational tasks.
