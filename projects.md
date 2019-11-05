@@ -10,7 +10,6 @@ Co-hosted with Milly Schultz-Boylen, and Soph Landau, Pink Rabbit is *looking do
 ![Pink Rabbit](/assets/images/pink-rabbit.jpg)
 
 Listen live on Radio Adelaide 101.5 and JOY 94.9 in Melbourne every Thursday at 6:30pm.
-
 <hr>
 
 ### [The Milkbar](https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008)
@@ -21,11 +20,9 @@ The Milkbar is [postup's](https://postup.com.au) culture podcast. Co-hosted with
 
 Find The Milkbar on [Apple Podcasts](https://podcasts.apple.com/au/podcast/the-milkbar/id1478059008), [Spotify](https://open.spotify.com/show/1jZ8UrvFnje63aQNC4fzo2), and where ever you [find](https://player.whooshkaa.com/shows/the-milkbar) podcasts.
 
-<hr>
-
-<h1 class="post-title divided p-name" itemprop="name headline">
+<h2 class="post-title divided p-name" itemprop="name headline">
      Past Projects
-</h1>
+</h2>
 
 ### [The Wire]()
 
