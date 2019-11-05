@@ -9,6 +9,8 @@ The first episode of my new podcast on [postup](https://postup.com.au) called *T
 
 ![The Milkbar Cover Art](https://images.whooshkaa.com/podcasts/podcast_8805/podcast_media/56655d-milkbar_updated.png?size=500x500)
 
+### Episode 1: VMAs & Facebook Advice Groups
+
 > The VMAs were bad, advice groups are also bad.
 
 Listen on [Apple Podcasts](https://podcasts.apple.com/au/podcast/episode-1-vmas-facebook-advice-groups/id1478059008?i=1000448229459).
