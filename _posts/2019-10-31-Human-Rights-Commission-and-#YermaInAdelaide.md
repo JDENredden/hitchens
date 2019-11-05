@@ -1,7 +1,7 @@
 ---
 title: "Pink Rabbit: Human Rights Commission and #YermaInAdelaide"
 author: Mariah Lattas
-categories: [podcasts, pink-rabbit]
+categories: [radio, pink-rabbit]
 layout: post
 ---
 
