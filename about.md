@@ -29,7 +29,6 @@ Oversees in-store inventory systems, facilities management, preservations, exter
 
 #### Education
 
-##### University of Adelaide.
-###### 2015-2019
+##### University of Adelaide <br> 2015-2019
 - Bachelor of Media
 - Bachelor of Arts (Politics and International Relations)
