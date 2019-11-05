@@ -1,7 +1,10 @@
 ---
-title: "The Milkbar: SADDO MODE, Swimming Lessons and Friday Night Live"
+title: 'The Milkbar: SADDO MODE, Swimming Lessons and Friday Night Live'
+date: 2019-10-04 00:00:00 Z
+categories:
+- podcasts
+- the-milkbar
 author: Mariah Lattas
-categories: [podcasts, the-milkbar]
 layout: post
 ---
 
