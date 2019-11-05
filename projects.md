@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Projects
+title: Current Projects
 ---
-
-## Current
 
 ### [Pink Rabbit](http://radioadelaide.org.au/program/pink-rabbit/)
 
@@ -25,7 +23,9 @@ Find The Milkbar on [Apple Podcasts](https://podcasts.apple.com/au/podcast/the-m
 
 <hr>
 
-## Past
+<h1 class="post-title divided p-name" itemprop="name headline">
+     Past Projects
+</h1>
 
 ### [The Wire]()
 
