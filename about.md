@@ -21,6 +21,8 @@ Mariah will be travelling to the United States in early 2020 to observe the 2020
 ### CV
 <hr>
 
+<span style="text-align: left">
+
 #### Experience
 ##### Sales Consultant at LUSH Cosmetics <br> 2019 — Present
 Sales consultant for LUSH Cosmetics in Adelaide, South Australia.
@@ -30,6 +32,8 @@ Oversees in-store inventory systems, facilities management, preservations, exter
 
 #### Education
 
-##### University of Adelaide <br> 2015-2019
-- Bachelor of Media
-- Bachelor of Arts (Politics and International Relations)
+##### University of Adelaide <br> 2015 — 2019
+Bachelor of Media
+Bachelor of Arts (Politics and International Relations)
+
+</span>
