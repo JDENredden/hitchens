@@ -21,7 +21,7 @@ Mariah will be travelling to the United States in early 2020 to observe the 2020
 ### CV
 <hr>
 
-<span style="text-align: left;">
+<div style="text-align: left;">
 
 #### Experience
 ##### Sales Consultant at LUSH Cosmetics <br> 2019 — Present
@@ -36,4 +36,4 @@ Oversees in-store inventory systems, facilities management, preservations, exter
 Bachelor of Media
 Bachelor of Arts (Politics and International Relations)
 
-</span>
+</div>
