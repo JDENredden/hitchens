@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Contact
+layout: post
 ---
 
 ### Want to work with me?

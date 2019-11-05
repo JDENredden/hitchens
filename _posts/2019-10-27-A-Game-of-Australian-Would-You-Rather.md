@@ -1,7 +1,10 @@
 ---
-title: "The Milkbar: A Game of Australian \"Would You Rather?\""
+title: 'The Milkbar: A Game of Australian "Would You Rather?"'
+date: 2019-10-27 00:00:00 Z
+categories:
+- podcasts
+- the-milkbar
 author: Mariah Lattas
-categories: [podcasts, the-milkbar]
 layout: post
 ---
 
