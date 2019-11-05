@@ -7,10 +7,6 @@ title: Contact
 
 Email me at mariahlattas1@gmail.com or +61 434 235 289.
 
-<br>
-
 Tweet at me [@MariahLattas](https://twitter.com/mariahlattas), my DMs are open.
-
-<br>
 
 Currently based in Adelaide, South Australia. 
