@@ -39,7 +39,7 @@ markdown: kramdown
 #   - vendor/ruby/
 
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 paginate: 5
 paginate_path: "/page/:num/"
