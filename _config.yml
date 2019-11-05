@@ -41,17 +41,10 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
 
-paginate: 3
+paginate: 5
 paginate_path: "/page/:num/"
 
-collections:
-    category:
-        output: true
-        
-defaults:
-    -
-        scoope:
-            path: ""
-            type: category
-            values:
-                layout: "category"
+show_excerpts: true
+excerpt_length: 20
+
+hide_credits: true
