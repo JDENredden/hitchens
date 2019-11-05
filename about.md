@@ -21,8 +21,7 @@ Mariah will be travelling to the United States in early 2020 to observe the 2020
 ### CV
 
 #### Experience	
-##### Sales Consultant at LUSH Cosmetics 
-###### 2019 — Present
+##### Sales Consultant at LUSH Cosmetics <br> 2019 — Present
 LUSh
 
 ##### Operations Specialist at Apple
