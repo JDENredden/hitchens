@@ -7,6 +7,8 @@ layout: post
 
 Aired 6:30 PM Thursday 31 October 2019 on Radio Adealaide 101.5 and JOY 94.9 in Melbourne.
 
+![Pink Rabbit Cover Art](/assets/images/pink-rabbit.jpg)
+
 > This week, we explore the results of a survey conducted by the Australian Human Rights Commission about sexual harassment in retail and fast food industries.
 
 > Then, we chat with playwright Holly Brindley about gender roles in #yermainadelaide and how the adaptation places its female protagonist into a modern context.
