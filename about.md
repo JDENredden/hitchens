@@ -1,6 +1,9 @@
 ---
 title: About
+<<<<<<< HEAD
 layout: post
+=======
+>>>>>>> parent of 8306e67... Update about.md
 ---
 
 Journalist, podcaster, and feminist.
@@ -25,7 +28,7 @@ Mariah will be travelling to the United States in early 2020 to observe the 2020
 
 #### Experience
 ##### Sales Consultant at LUSH Cosmetics <br> 2019 — Present
-Sales consultant for LUSH Cosmetics in Adelaide, South Australia.
+LUSh
 
 ##### Operations Specialist at Apple <br> 2017 — 2019
 Oversees in-store inventory systems, facilities management, preservations, external relations, event planning, and all other operational tasks.
